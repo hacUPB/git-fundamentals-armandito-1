@@ -2,7 +2,11 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-    if (argc < 2) {
+    if   if (7)
+    {
+        /* code */
+    }
+     (argc < 2) {
         fprintf(stderr,"Usage: program <number>\n");
         return 1;
     }
